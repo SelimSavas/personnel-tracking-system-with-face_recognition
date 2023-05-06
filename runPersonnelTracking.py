@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'video.ui'
-#
-# Created by: PyQt5 UI code generator 5.14.1
-#
-# WARNING! All changes made in this file will be lost!
-
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import *
@@ -40,6 +32,8 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 
 import unittest
+
+import os; os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1'
     
 class Tests(unittest.TestCase):
       def test(self):                                  #test method
