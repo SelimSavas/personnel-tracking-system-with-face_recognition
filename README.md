@@ -9,7 +9,9 @@ We stayed loyal to the Python programming language in our project, and used many
 ### Artificial Intelligence Models We Trained for Our Project:
 
 · MaskNet model that detects masks
+
 · Producer model developed with GAN architecture that makes the individual's masked image unmasked
+
 · Model that performs face recognition on the created unmasked images
 
 Project Presentation [Link](https://lnkd.in/d3-s9pax)
