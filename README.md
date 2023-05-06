@@ -15,3 +15,5 @@ We stayed loyal to the Python programming language in our project, and used many
 · Model that performs face recognition on the created unmasked images
 
 Project Presentation [Link](https://lnkd.in/d3-s9pax)
+
+Project masknet.h5 [Link](https://drive.google.com/file/d/1MrnCLVN3CcrhkxpT1J60fOh9QDrVQFBS/view?usp=sharing)
