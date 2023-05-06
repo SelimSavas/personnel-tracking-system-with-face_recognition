@@ -12,4 +12,4 @@ We stayed loyal to the Python programming language in our project, and used many
 · Producer model developed with GAN architecture that makes the individual's masked image unmasked
 · Model that performs face recognition on the created unmasked images
 
-Project Presentation (Link)[https://lnkd.in/d3-s9pax]
+Project Presentation [Link](https://lnkd.in/d3-s9pax)
